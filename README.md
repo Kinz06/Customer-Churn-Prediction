@@ -11,6 +11,8 @@ Rows: 64,374
 Columns: 12
 Churn Rate: 47.4%
 
+Source: https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset
+
 | Column | Type | Description |
 |--------|------|-------------|
 | CustomerID | ID | Dropped during preprocessing |
